@@ -14,3 +14,4 @@ public:
     int imageWrite(std::string fname);
     ~imageYUEE();                     
 };
+ 

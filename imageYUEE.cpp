@@ -1,8 +1,10 @@
+
 #include "imageYUEE.h"
 #include <fstream>
 #include <iostream>
 #include <cstring>
 #include <algorithm>
+#include "pch.h"
 using namespace std;
 
 imageYUEE::imageYUEE(string fname) {
